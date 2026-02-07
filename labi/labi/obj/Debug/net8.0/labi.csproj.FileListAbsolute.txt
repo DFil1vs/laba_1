@@ -1,0 +1,14 @@
+D:\Users\Huawei\source\repos\labi\labi\bin\Debug\net8.0\labi.exe
+D:\Users\Huawei\source\repos\labi\labi\bin\Debug\net8.0\labi.deps.json
+D:\Users\Huawei\source\repos\labi\labi\bin\Debug\net8.0\labi.runtimeconfig.json
+D:\Users\Huawei\source\repos\labi\labi\bin\Debug\net8.0\labi.dll
+D:\Users\Huawei\source\repos\labi\labi\bin\Debug\net8.0\labi.pdb
+D:\Users\Huawei\source\repos\labi\labi\obj\Debug\net8.0\labi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Huawei\source\repos\labi\labi\obj\Debug\net8.0\labi.AssemblyInfoInputs.cache
+D:\Users\Huawei\source\repos\labi\labi\obj\Debug\net8.0\labi.AssemblyInfo.cs
+D:\Users\Huawei\source\repos\labi\labi\obj\Debug\net8.0\labi.csproj.CoreCompileInputs.cache
+D:\Users\Huawei\source\repos\labi\labi\obj\Debug\net8.0\labi.dll
+D:\Users\Huawei\source\repos\labi\labi\obj\Debug\net8.0\refint\labi.dll
+D:\Users\Huawei\source\repos\labi\labi\obj\Debug\net8.0\labi.pdb
+D:\Users\Huawei\source\repos\labi\labi\obj\Debug\net8.0\labi.genruntimeconfig.cache
+D:\Users\Huawei\source\repos\labi\labi\obj\Debug\net8.0\ref\labi.dll

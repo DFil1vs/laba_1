@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Huawei\\source\\repos\\labi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA01CE-180D-4F60-B7B5-C4F2B89B35F7}|labi\\labi.csproj|d:\\users\\huawei\\source\\repos\\labi\\labi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA01CE-180D-4F60-B7B5-C4F2B89B35F7}|labi\\labi.csproj|solutionrelative:labi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA01CE-180D-4F60-B7B5-C4F2B89B35F7}|labi\\labi.csproj|d:\\users\\huawei\\source\\repos\\labi\\labi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA01CE-180D-4F60-B7B5-C4F2B89B35F7}|labi\\labi.csproj|solutionrelative:labi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:321294008:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Users\\Huawei\\source\\repos\\labi\\labi\\Class1.cs",
+              "RelativeDocumentMoniker": "labi\\Class1.cs",
+              "ToolTip": "D:\\Users\\Huawei\\source\\repos\\labi\\labi\\Class1.cs*",
+              "RelativeToolTip": "labi\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T05:35:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Huawei\\source\\repos\\labi\\labi\\Program.cs",
+              "RelativeDocumentMoniker": "labi\\Program.cs",
+              "ToolTip": "D:\\Users\\Huawei\\source\\repos\\labi\\labi\\Program.cs*",
+              "RelativeToolTip": "labi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T05:31:30.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
